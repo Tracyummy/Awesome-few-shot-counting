@@ -3,6 +3,10 @@ Paper list of Few Shot Counting
 
 ## Arxiv
 
+- CounTR: Transformer-based Generalised Visual Counting
+
+- Exemplar Free Class Agnostic Counting
+
 - LaoNet: You Only Need to Look at One. [[PDF]](https://arxiv.org/abs/2112.05993)
 
 - SAFECount: Few-shot Object Counting with Similarity-Aware Feature Enhancement. [[PDF]](https://arxiv.org/pdf/2201.08959.pdf)
@@ -20,6 +24,9 @@ Paper list of Few Shot Counting
 
 - 【CVPR】FamNet: Learning To Count Everything. [[PDF]](https://arxiv.org/pdf/2104.08391.pdf)
 
+## 2019
+
+- 【TIP】Divide and Count: Generic Object Counting by Image Divisions. [[PDF]](https://ieeexplore.ieee.org/document/8488575)
 
 ## 2018
 - 【ACCV】GMN: Class-Agnostic Counting. [[PDF]](https://arxiv.org/pdf/1811.00472.pdf) [[Code]](https://github.com/erikalu/class-agnostic-counting)

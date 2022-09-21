@@ -3,6 +3,8 @@ Paper list of Few Shot Counting
 
 ## Arxiv
 
+- Learning to Count Anything: Reference-less Class-agnostic Counting with Weak Supervision
+
 - CounTR: Transformer-based Generalised Visual Counting
 
 - Exemplar Free Class Agnostic Counting

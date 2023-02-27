@@ -2,6 +2,7 @@
 Paper list of Few Shot Counting
 
 ## Arxiv
+- GCNet: Probing Self-Similarity Learning for Generalized Counting Network
 
 - Learning to Count Anything: Reference-less Class-agnostic Counting with Weak Supervision
 

@@ -6,8 +6,6 @@ Paper list of Few Shot Counting
 
 - Learning to Count Anything: Reference-less Class-agnostic Counting with Weak Supervision
 
-- CounTR: Transformer-based Generalised Visual Counting
-
 - Exemplar Free Class Agnostic Counting
 
 - LaoNet: You Only Need to Look at One. [[PDF]](https://arxiv.org/abs/2112.05993)
@@ -16,6 +14,8 @@ Paper list of Few Shot Counting
 
 ## 2022
 - 【ECCV】Few-shot Object Counting and Detection. [[PDF]](https://arxiv.org/abs/2207.10988) [[Code]](https://github.com/VinAIResearch/Counting-DETR)
+
+- 【BMCV】CounTR: Transformer-based Generalised Visual Counting
 
 - 【CVPR】BMNet: Represent, Compare, and Learn: A Similarity-Aware Framework for Class-Agnostic Counting. [[PDF]](https://arxiv.org/abs/2203.08354) [[code]](https://github.com/flyinglynx/Bilinear-Matching-Network)
 
